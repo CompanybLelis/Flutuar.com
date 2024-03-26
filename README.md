@@ -1,2 +1,34 @@
-# Stage 2 - 1 Recriando Layout
-https://efficient-sloth-d85.notion.site/Desafio-intermedi-rio-Recriando-layout-19dfbff7b19c47c59a286afa37d42543#ce0f0616c59e408c891eb785feb39aa8
+# Projeto - Flutuar.com
+
+Este é um projeto web desenvolvido para criar uma página baseada em um layout fornecido no software Figma, utilizando HTML e CSS.
+
+![Cover Ambientes Únicos](https://github.com/CompanybLelis/Ambientes-Unicos/assets/69200014/38297a0f-5da4-4711-b68c-3f3636dc6eb8)
+
+## Descrição
+
+O projeto consiste na criação de uma página web do zero, onde foram aplicados os conhecimentos adquiridos sobre desenvolvimento web, desde a estruturação básica do HTML até a estilização avançada utilizando CSS.
+
+## Estrutura do Projeto
+
+- **index.html**: Arquivo principal que contém a estrutura básica da página HTML.
+- **styles.css**: Arquivo de estilos CSS onde foram aplicadas as personalizações visuais da página.
+
+## Detalhamento das Etapas
+
+### 1. Estruturando um Projeto HTML
+- Desenvolvimento da estrutura básica do projeto HTML, incluindo a criação dos elementos essenciais como `<html>`, `<head>`, `<meta>`, `<title>`, `<body>`.
+
+### 2. Uso de Tags HTML Mais Comuns
+- Utilização das tags HTML mais comuns, tais como `<div>`, `<img>`, `<p>`, `<a>`, `<h1>`, para organizar e estruturar o conteúdo da página.
+
+### 3. Conceitos Iniciais de CSS
+- Introdução aos conceitos iniciais de CSS, incluindo a definição de estilos básicos como cores, fontes, tamanhos de texto e fundos.
+
+### 4. Posicionamento e Alinhamento de Elementos na Tela
+- Aplicação de técnicas de posicionamento e alinhamento de elementos na tela utilizando propriedades CSS como `display`, `position`, `float`, `margin` e `padding`.
+
+### 5. Aplicando Fontes Customizadas
+- Customização das fontes da página utilizando propriedades CSS como `font-family` e a incorporação de fontes externas através de serviços como o Google Fonts.
+
+### 6. Espaçamentos
+- Ajuste dos espaçamentos entre os elementos da página utilizando propriedades CSS como `margin` e `padding`, garantindo uma apresentação visualmente agradável e organizada.
